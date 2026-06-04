@@ -1,0 +1,31 @@
+# Environment variables
+.env
+
+# Virtual Environment
+.venv/
+env/
+venv/
+ENV/
+
+# Python cache files
+__pycache__/
+*.pyc
+*.pyo
+*.pyd
+.Python
+build/
+develop-eggs/
+dist/
+downloads/
+eggs/
+.eggs/
+lib/
+lib64/
+parts/
+sdist/
+var/
+wheels/
+share/python-wheels/
+
+# Streamlit config (optional if you want to keep secrets.toml secret)
+.streamlit/secrets.toml
